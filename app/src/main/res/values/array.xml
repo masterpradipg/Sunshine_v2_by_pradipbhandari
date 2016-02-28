@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_units_values">   <!--array 2 find value2saved 4 a prefeference-->
+        <item>metric</item> <!--after video 29-->
+        <item>imperial</item>
+    </string-array>
+    <string-array name="pref_units_options">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+
+
+</resources>
